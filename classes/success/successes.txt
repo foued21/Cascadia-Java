@@ -1,0 +1,25 @@
+1 | Marquer 80 pts ou +
+2 | Marquer 85 pts ou +
+3 | Marquer 90 pts ou +
+4 | Marquer 95 pts ou +
+5 | Marquer 100 pts ou +
+6 | Marquer 105 pts ou +
+7 | Marquer 110 pts ou +
+8 | Finir la partie sans jeton Nature
+9 | Ne pas avoir d’ours
+10 | Ne pas avoir de wapiti
+11 | Ne pas avoir de saumon
+12 | Ne pas avoir de buse
+13 | Ne pas avoir de renard
+14 | Avoir plus de 10 animaux d’une espèce
+15 | Majorité pour 3 types d’habitats ou +
+16 | Marquer 5 pts ou + pour chaque habitat
+17 | Marquer 12 pts ou + pour un habitat
+18 | Marquer 15 pts ou + pour chaque espèce
+19 | Marquer 10 pts ou + pour chaque espèce
+20 | Marquer 20 pts ou + pour 2 espèces
+21 | Marquer 30 pts ou + pour une espèce
+22 | Finir la partie avec 5 jetons Nature ou +
+23 | Finir la partie avec 10 jetons Nature ou +
+24 | Aucune tuile Habitat idéal complétée
+25 | N’avoir que 3 espèces différentes au maximum
