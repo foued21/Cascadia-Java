@@ -1,5 +1,4 @@
 ### Manuel Utilisateur – Cascadia en ligne
-Réalisé par : BEN ALLAK Hassina & HAMMI Fouad
 ## Introduction
 # Démarrage
 Déroulement d’une Partie
