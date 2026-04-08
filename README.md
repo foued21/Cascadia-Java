@@ -1,6 +1,9 @@
 # Manuel Utilisateur – Cascadia en ligne
 
+> Réalisé en binôme avec **BEN-ALLAK HASSINA**
+
 ---
+
 
 ## Introduction
 
