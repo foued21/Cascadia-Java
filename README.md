@@ -1,6 +1,6 @@
 # Manuel Utilisateur – Cascadia en ligne
 
-> Réalisé en binôme avec **BEN-ALLAK HASSINA**
+> Réalisé en binôme avec **Hassina138**
 
 ---
 
