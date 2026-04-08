@@ -5,7 +5,6 @@ Déroulement d’une Partie
 Introduction
 Bienvenue dans Cascadia en ligne, une version numérique du jeu de société. Ce manuel vous guide
 pas à pas pour comprendre les règles et maîtriser l’interface de jeu.
-Démarrage
 # 1. Lancement du jeu
 Assurez-vous que votre environnement Java est configuré correctement.
 Dans un terminal éxécutez le fichier principal via la commande :
